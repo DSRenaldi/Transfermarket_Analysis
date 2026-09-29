@@ -1,0 +1,7 @@
+source_type,competition_group,include_in_league_analysis,mapping_status
+domestic_league,Domestic League,true,mapped
+domestic_cup,Domestic Cup,false,mapped
+international_cup,International Club Cup,false,mapped
+national_team_competition,National Team Competition,false,mapped
+other,Other,false,mapped
+,Unknown,false,source_missing

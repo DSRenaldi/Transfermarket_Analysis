@@ -1,0 +1,15 @@
+table_name,column_name,row_count,missing_count,invalid_format_count,minimum_allowed,below_minimum_count,maximum_allowed,above_maximum_count,status
+players,height_in_cm,50149,4365,0,100,13,230,0,REVIEW
+players,market_value_in_eur,50149,8621,0,0,0,,0,PASS
+players,highest_market_value_in_eur,50149,8621,0,0,0,,0,PASS
+appearances,minutes_played,1894350,0,0,0,0,130,3,REVIEW
+appearances,goals,1894350,0,0,0,0,,0,PASS
+appearances,assists,1894350,0,0,0,0,,0,PASS
+appearances,yellow_cards,1894350,0,0,0,0,,0,PASS
+appearances,red_cards,1894350,0,0,0,0,,0,PASS
+player_valuations,market_value_in_eur,656301,0,0,0,0,,0,PASS
+games,home_club_goals,88958,0,0,0,0,,0,PASS
+games,away_club_goals,88958,0,0,0,0,,0,PASS
+games,attendance,88958,10803,0,0,0,,0,PASS
+transfers,transfer_fee,175165,61526,0,0,0,,0,PASS
+transfers,market_value_in_eur,175165,68160,0,0,0,,0,PASS

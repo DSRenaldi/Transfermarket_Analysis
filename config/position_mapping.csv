@@ -1,0 +1,16 @@
+source_position,source_sub_position,position_group,mapping_status
+Goalkeeper,Goalkeeper,Goalkeeper,mapped
+Defender,Centre-Back,Defender,mapped
+Defender,Left-Back,Defender,mapped
+Defender,Right-Back,Defender,mapped
+Defender,Sweeper,Defender,mapped
+Midfield,Defensive Midfield,Midfielder,mapped
+Midfield,Central Midfield,Midfielder,mapped
+Midfield,Attacking Midfield,Midfielder,mapped
+Midfield,Left Midfield,Midfielder,mapped
+Midfield,Right Midfield,Midfielder,mapped
+Attack,Left Winger,Forward,mapped
+Attack,Right Winger,Forward,mapped
+Attack,Second Striker,Forward,mapped
+Attack,Centre-Forward,Forward,mapped
+Missing,,Unknown,source_missing

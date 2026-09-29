@@ -1,0 +1,7 @@
+table_name,column_name,row_count,missing_count,invalid_format_count,min_date,max_date,future_date_count,status
+games,date,88958,0,0,2006-06-09,2026-07-06,0,PASS
+appearances,date,1894350,0,0,2012-07-03,2026-06-28,0,PASS
+player_valuations,date,656301,0,0,2000-01-20,2026-06-12,0,PASS
+game_events,date,1274469,0,0,2006-06-09,2026-07-06,0,PASS
+game_lineups,date,3179016,0,0,2013-07-02,2026-07-06,0,PASS
+transfers,transfer_date,175165,0,0,1993-07-01,2030-06-30,488,REVIEW

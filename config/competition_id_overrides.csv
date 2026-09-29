@@ -1,0 +1,6 @@
+competition_id,competition_name,country_name,source_type,competition_group,evidence
+CGB,EFL Cup,England,domestic_cup,Domestic Cup,Inferred from source match participants rounds and dates
+COL1,Colombian Primera A,Colombia,domestic_league,Domestic League,Inferred from source match participants rounds and dates
+KLUB,FIFA Club World Cup,International,international_cup,International Club Cup,Inferred from source match participants rounds and dates
+POCP,Portuguese League Cup,Portugal,domestic_cup,Domestic Cup,Inferred from source match participants rounds and dates
+UKRS,Ukrainian Super Cup,Ukraine,other,Other,Inferred from source match participants rounds and dates

@@ -1,0 +1,84 @@
+{
+  "loaded_at_utc": "2026-09-29T07:36:16.523397+00:00",
+  "duration_seconds": 104.035,
+  "database": "football_analytics",
+  "database_user": "postgres",
+  "postgresql_version": "18.4",
+  "tables": [
+    {
+      "schema": "tm_raw",
+      "table": "competitions",
+      "rows": 65
+    },
+    {
+      "schema": "tm_raw",
+      "table": "clubs",
+      "rows": 796
+    },
+    {
+      "schema": "tm_raw",
+      "table": "players",
+      "rows": 50149
+    },
+    {
+      "schema": "tm_raw",
+      "table": "games",
+      "rows": 88958
+    },
+    {
+      "schema": "tm_raw",
+      "table": "appearances",
+      "rows": 1894350
+    },
+    {
+      "schema": "tm_raw",
+      "table": "player_valuations",
+      "rows": 656301
+    },
+    {
+      "schema": "tm_raw",
+      "table": "club_games",
+      "rows": 177916
+    },
+    {
+      "schema": "tm_raw",
+      "table": "game_events",
+      "rows": 1274469
+    },
+    {
+      "schema": "tm_raw",
+      "table": "game_lineups",
+      "rows": 3179016
+    },
+    {
+      "schema": "tm_raw",
+      "table": "transfers",
+      "rows": 175165
+    },
+    {
+      "schema": "tm_raw",
+      "table": "countries",
+      "rows": 124
+    },
+    {
+      "schema": "tm_raw",
+      "table": "national_teams",
+      "rows": 124
+    },
+    {
+      "schema": "tm_ref",
+      "table": "position_mapping",
+      "rows": 15
+    },
+    {
+      "schema": "tm_ref",
+      "table": "competition_type_mapping",
+      "rows": 6
+    },
+    {
+      "schema": "tm_ref",
+      "table": "transfer_fee_rules",
+      "rows": 4
+    }
+  ]
+}

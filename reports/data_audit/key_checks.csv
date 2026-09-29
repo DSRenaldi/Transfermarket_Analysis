@@ -1,0 +1,14 @@
+table_name,check_name,key_columns,expected_unique,row_count,null_key_rows,duplicate_groups,duplicate_excess_rows,status
+competitions,competition_id,competition_id,true,65,0,0,0,PASS
+clubs,club_id,club_id,true,796,0,0,0,PASS
+players,player_id,player_id,true,50149,0,0,0,PASS
+games,game_id,game_id,true,88958,0,0,0,PASS
+appearances,appearance_id,appearance_id,true,1894350,0,0,0,PASS
+appearances,player_game,"player_id,game_id",true,1894350,0,0,0,PASS
+player_valuations,player_date,"player_id,date",true,656301,0,0,0,PASS
+club_games,club_game,"club_id,game_id",true,177916,0,0,0,PASS
+game_events,game_event_id,game_event_id,true,1274469,0,0,0,PASS
+game_lineups,game_lineups_id,game_lineups_id,true,3179016,0,0,0,PASS
+countries,country_id,country_id,true,124,0,0,0,PASS
+national_teams,national_team_id,national_team_id,true,124,0,0,0,PASS
+transfers,exact_source_row,all source columns,true,175165,not_applicable,0,0,PASS

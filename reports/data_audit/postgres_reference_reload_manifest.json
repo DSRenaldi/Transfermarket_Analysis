@@ -1,0 +1,29 @@
+{
+  "loaded_at_utc": "2026-09-29T07:42:44.707899+00:00",
+  "duration_seconds": 0.095,
+  "database": "football_analytics",
+  "database_user": "postgres",
+  "postgresql_version": "18.4",
+  "tables": [
+    {
+      "schema": "tm_ref",
+      "table": "position_mapping",
+      "rows": 15
+    },
+    {
+      "schema": "tm_ref",
+      "table": "competition_type_mapping",
+      "rows": 6
+    },
+    {
+      "schema": "tm_ref",
+      "table": "competition_id_overrides",
+      "rows": 5
+    },
+    {
+      "schema": "tm_ref",
+      "table": "transfer_fee_rules",
+      "rows": 4
+    }
+  ]
+}

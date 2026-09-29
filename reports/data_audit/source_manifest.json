@@ -1,0 +1,131 @@
+{
+  "dataset": "dcaribou/transfermarkt-datasets",
+  "source_repository": "https://github.com/dcaribou/transfermarkt-datasets",
+  "original_data_source": "Transfermarkt",
+  "distribution_base_url": "https://pub-e682421888d945d684bcae8890b0ec20.r2.dev/data",
+  "downloaded_at_utc": "2026-09-29T07:00:07.286171+00:00",
+  "file_count": 12,
+  "total_compressed_bytes": 241128281,
+  "files": [
+    {
+      "table": "competitions",
+      "filename": "competitions.csv.gz",
+      "url": "https://pub-e682421888d945d684bcae8890b0ec20.r2.dev/data/competitions.csv.gz",
+      "bytes": 2242,
+      "sha256": "8924ddfbc0e9989f4a42a3c32ebb6faa671614625086d7fa84353f955352ea88",
+      "etag": "\"cc53fe35e2c82d73f57f3f5d3d8cf605\"",
+      "last_modified": "Sat, 05 Sep 2026 09:12:02 GMT",
+      "content_length_header": 2242
+    },
+    {
+      "table": "clubs",
+      "filename": "clubs.csv.gz",
+      "url": "https://pub-e682421888d945d684bcae8890b0ec20.r2.dev/data/clubs.csv.gz",
+      "bytes": 51281,
+      "sha256": "aa57ab56e87faffaea1e8697439a32caf10116d8f2f2dfb3a57193c0bb1d641b",
+      "etag": "\"f30713f2d0022ca4ecbb382cd695e389\"",
+      "last_modified": "Sat, 05 Sep 2026 09:12:01 GMT",
+      "content_length_header": 51281
+    },
+    {
+      "table": "players",
+      "filename": "players.csv.gz",
+      "url": "https://pub-e682421888d945d684bcae8890b0ec20.r2.dev/data/players.csv.gz",
+      "bytes": 4389958,
+      "sha256": "d22e407981d5b51a79bf8ff59835729f3526f7dc3495a6d8ed2f852ed2e86403",
+      "etag": "\"bf46ce79e2aec6db1decce7713bb618c\"",
+      "last_modified": "Sat, 05 Sep 2026 09:12:22 GMT",
+      "content_length_header": 4389958
+    },
+    {
+      "table": "games",
+      "filename": "games.csv.gz",
+      "url": "https://pub-e682421888d945d684bcae8890b0ec20.r2.dev/data/games.csv.gz",
+      "bytes": 4995595,
+      "sha256": "142561989017d379bcf9e72bad0b87e0996bae0e7b710ebb3def9255f464c741",
+      "etag": "\"9d56854283f5d47601688ffbd3baaedd\"",
+      "last_modified": "Sat, 05 Sep 2026 09:12:20 GMT",
+      "content_length_header": 4995595
+    },
+    {
+      "table": "appearances",
+      "filename": "appearances.csv.gz",
+      "url": "https://pub-e682421888d945d684bcae8890b0ec20.r2.dev/data/appearances.csv.gz",
+      "bytes": 45253638,
+      "sha256": "e096c2b158fc3d52c4550526c4d4850dd62f31007652f4bcae112eadb1646802",
+      "etag": "\"e0444486c9d78a44a74544d7dfbcc8cc-6\"",
+      "last_modified": "Sat, 05 Sep 2026 09:11:59 GMT",
+      "content_length_header": 45253638
+    },
+    {
+      "table": "player_valuations",
+      "filename": "player_valuations.csv.gz",
+      "url": "https://pub-e682421888d945d684bcae8890b0ec20.r2.dev/data/player_valuations.csv.gz",
+      "bytes": 7197935,
+      "sha256": "608e32e5ad2231074f3505c469ad727be66d7e6efda6af918afd85379439631d",
+      "etag": "\"087cb1d21a2469ff4a597b6ca86cced4\"",
+      "last_modified": "Sat, 05 Sep 2026 09:12:22 GMT",
+      "content_length_header": 7197935
+    },
+    {
+      "table": "club_games",
+      "filename": "club_games.csv.gz",
+      "url": "https://pub-e682421888d945d684bcae8890b0ec20.r2.dev/data/club_games.csv.gz",
+      "bytes": 2138062,
+      "sha256": "dac0ffdc13d415ad032f1480fdd05c402f6dee7ac3c6308c7799afdf4f0d93d3",
+      "etag": "\"03a381f50511ac86e7784dd952d9f52f\"",
+      "last_modified": "Sat, 05 Sep 2026 09:12:01 GMT",
+      "content_length_header": 2138062
+    },
+    {
+      "table": "game_events",
+      "filename": "game_events.csv.gz",
+      "url": "https://pub-e682421888d945d684bcae8890b0ec20.r2.dev/data/game_events.csv.gz",
+      "bytes": 45466137,
+      "sha256": "80eb3b2a85c780b2caaf1e8850c3d16de7f8b1240b53aaf415bdc56b641d7d68",
+      "etag": "\"b32b30d67634979e40e1b43a7eb7788c-6\"",
+      "last_modified": "Sat, 05 Sep 2026 09:12:14 GMT",
+      "content_length_header": 45466137
+    },
+    {
+      "table": "game_lineups",
+      "filename": "game_lineups.csv.gz",
+      "url": "https://pub-e682421888d945d684bcae8890b0ec20.r2.dev/data/game_lineups.csv.gz",
+      "bytes": 125814089,
+      "sha256": "5e83d6fad28364aadfea608013700cf09990062eede1ad9ef189189b0af47ba2",
+      "etag": "\"9218250ea32f80483068fb4a2eb311b2-15\"",
+      "last_modified": "Sat, 05 Sep 2026 09:12:19 GMT",
+      "content_length_header": 125814089
+    },
+    {
+      "table": "transfers",
+      "filename": "transfers.csv.gz",
+      "url": "https://pub-e682421888d945d684bcae8890b0ec20.r2.dev/data/transfers.csv.gz",
+      "bytes": 5809514,
+      "sha256": "90326983daf7e6ac7aabdfe62b90936d9bf1dd2171e53dec75c3751eb1620a83",
+      "etag": "\"21cdd99be19205ed521890c45da44235\"",
+      "last_modified": "Sat, 05 Sep 2026 09:12:23 GMT",
+      "content_length_header": 5809514
+    },
+    {
+      "table": "countries",
+      "filename": "countries.csv.gz",
+      "url": "https://pub-e682421888d945d684bcae8890b0ec20.r2.dev/data/countries.csv.gz",
+      "bytes": 2878,
+      "sha256": "4b6310f95f41cc81d5f5907d6436f921159cfb180adbc526b5f71c28b6ac8209",
+      "etag": "\"bc19690373be7221d4f2a64e970aa65c\"",
+      "last_modified": "Sat, 05 Sep 2026 09:12:02 GMT",
+      "content_length_header": 2878
+    },
+    {
+      "table": "national_teams",
+      "filename": "national_teams.csv.gz",
+      "url": "https://pub-e682421888d945d684bcae8890b0ec20.r2.dev/data/national_teams.csv.gz",
+      "bytes": 6952,
+      "sha256": "24ddf7b5c432143e3b471e0fd5f6a46713914609566403a735674d1a1cf1f939",
+      "etag": "\"ad7175cee4892e5141700dee1b271027\"",
+      "last_modified": "Sat, 05 Sep 2026 09:12:20 GMT",
+      "content_length_header": 6952
+    }
+  ]
+}

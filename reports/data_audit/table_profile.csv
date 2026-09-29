@@ -1,0 +1,13 @@
+table_name,row_count,source_column_count
+appearances,1894350,13
+club_games,177916,11
+clubs,796,17
+competitions,65,11
+countries,124,8
+game_events,1274469,11
+game_lineups,3179016,10
+games,88958,23
+national_teams,124,17
+player_valuations,656301,6
+players,50149,26
+transfers,175165,10

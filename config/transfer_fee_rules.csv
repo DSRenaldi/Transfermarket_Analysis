@@ -1,0 +1,5 @@
+priority,condition,fee_status,eligible_for_fee_analysis,interpretation
+1,transfer_fee IS NULL,unknown_or_undisclosed,false,No numeric fee is published in the source
+2,transfer_fee = 0,recorded_zero_ambiguous,false,Cannot distinguish free transfer loan loan return or another zero-fee movement
+3,transfer_fee > 0,numeric_fee,true,A positive numeric transaction amount is available
+4,transfer_fee < 0,invalid_negative,false,Invalid value requiring investigation

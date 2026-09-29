@@ -1,0 +1,19 @@
+check_name,category,row_count,row_pct,status
+player_position,Defender,15961,31.8272,OK
+player_position,Midfielder,14272,28.4592,OK
+player_position,Forward,13502,26.9238,OK
+player_position,Goalkeeper,5828,11.6214,OK
+player_position,Unknown,586,1.1685,OK
+competition_type,Domestic League,31,47.6923,OK
+competition_type,Other,16,24.6154,OK
+competition_type,Domestic Cup,10,15.3846,OK
+competition_type,National Team Competition,5,7.6923,OK
+competition_type,International Club Cup,3,4.6154,OK
+game_competition_type,Domestic League,63582,71.4742,OK
+game_competition_type,Domestic Cup,13752,15.459,OK
+game_competition_type,Other,7609,8.5535,OK
+game_competition_type,International Club Cup,3273,3.6793,OK
+game_competition_type,National Team Competition,742,0.8341,OK
+transfer_fee_status,recorded_zero_ambiguous,96085,54.854,OK
+transfer_fee_status,unknown_or_undisclosed,61526,35.1246,OK
+transfer_fee_status,numeric_fee,17554,10.0214,OK

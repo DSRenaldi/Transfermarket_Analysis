@@ -1,0 +1,93 @@
+{
+  "generated_at_utc": "2026-09-29T07:45:40.868397+00:00",
+  "table_count": 12,
+  "total_source_rows": 7497433,
+  "failed_key_checks": 0,
+  "foreign_key_checks_with_orphans": 16,
+  "date_coverage": [
+    {
+      "table_name": "games",
+      "column_name": "date",
+      "row_count": 88958,
+      "missing_count": 0,
+      "invalid_format_count": 0,
+      "min_date": "2006-06-09",
+      "max_date": "2026-07-06",
+      "future_date_count": 0,
+      "status": "PASS"
+    },
+    {
+      "table_name": "appearances",
+      "column_name": "date",
+      "row_count": 1894350,
+      "missing_count": 0,
+      "invalid_format_count": 0,
+      "min_date": "2012-07-03",
+      "max_date": "2026-06-28",
+      "future_date_count": 0,
+      "status": "PASS"
+    },
+    {
+      "table_name": "player_valuations",
+      "column_name": "date",
+      "row_count": 656301,
+      "missing_count": 0,
+      "invalid_format_count": 0,
+      "min_date": "2000-01-20",
+      "max_date": "2026-06-12",
+      "future_date_count": 0,
+      "status": "PASS"
+    },
+    {
+      "table_name": "game_events",
+      "column_name": "date",
+      "row_count": 1274469,
+      "missing_count": 0,
+      "invalid_format_count": 0,
+      "min_date": "2006-06-09",
+      "max_date": "2026-07-06",
+      "future_date_count": 0,
+      "status": "PASS"
+    },
+    {
+      "table_name": "game_lineups",
+      "column_name": "date",
+      "row_count": 3179016,
+      "missing_count": 0,
+      "invalid_format_count": 0,
+      "min_date": "2013-07-02",
+      "max_date": "2026-07-06",
+      "future_date_count": 0,
+      "status": "PASS"
+    },
+    {
+      "table_name": "transfers",
+      "column_name": "transfer_date",
+      "row_count": 175165,
+      "missing_count": 0,
+      "invalid_format_count": 0,
+      "min_date": "1993-07-01",
+      "max_date": "2030-06-30",
+      "future_date_count": 488,
+      "status": "REVIEW"
+    }
+  ],
+  "recommended_v1_scope": {
+    "competition_ids": [
+      "ES1",
+      "FR1",
+      "GB1",
+      "IT1",
+      "L1"
+    ],
+    "latest_three_common_adequate_seasons": [
+      2025,
+      2024,
+      2023
+    ],
+    "minimum_minutes": 900,
+    "player_scope": "outfield",
+    "season_end_value_definition": "latest valuation on or before the documented season end date",
+    "adequacy_rule": "game count >= 85% of the competition's five-season local median and appearance coverage > 0"
+  }
+}
