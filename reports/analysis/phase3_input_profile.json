@@ -1,0 +1,513 @@
+{
+  "generated_at_utc": "2026-09-30T02:11:37.240244+00:00",
+  "eligibility_funnel": {
+    "player_seasons": 8316,
+    "outfield": 7710,
+    "minimum_minutes": 4768,
+    "positive_value": 8069,
+    "phase2_eligible": 4412,
+    "phase3_fresh_value_eligible": 4392
+  },
+  "peer_groups": [
+    {
+      "competition_key": "ES1",
+      "season_key": 2023,
+      "position_group": "Defender",
+      "eligible_players": 131,
+      "minimum_minutes": 908.0,
+      "maximum_minutes": 3328.0,
+      "null_starts": 0,
+      "stale_values": 0
+    },
+    {
+      "competition_key": "ES1",
+      "season_key": 2023,
+      "position_group": "Forward",
+      "eligible_players": 89,
+      "minimum_minutes": 920.0,
+      "maximum_minutes": 2996.0,
+      "null_starts": 0,
+      "stale_values": 0
+    },
+    {
+      "competition_key": "ES1",
+      "season_key": 2023,
+      "position_group": "Midfielder",
+      "eligible_players": 96,
+      "minimum_minutes": 910.0,
+      "maximum_minutes": 3305.0,
+      "null_starts": 0,
+      "stale_values": 0
+    },
+    {
+      "competition_key": "FR1",
+      "season_key": 2023,
+      "position_group": "Defender",
+      "eligible_players": 115,
+      "minimum_minutes": 905.0,
+      "maximum_minutes": 2988.0,
+      "null_starts": 0,
+      "stale_values": 0
+    },
+    {
+      "competition_key": "FR1",
+      "season_key": 2023,
+      "position_group": "Forward",
+      "eligible_players": 67,
+      "minimum_minutes": 901.0,
+      "maximum_minutes": 2723.0,
+      "null_starts": 0,
+      "stale_values": 0
+    },
+    {
+      "competition_key": "FR1",
+      "season_key": 2023,
+      "position_group": "Midfielder",
+      "eligible_players": 90,
+      "minimum_minutes": 902.0,
+      "maximum_minutes": 3026.0,
+      "null_starts": 0,
+      "stale_values": 0
+    },
+    {
+      "competition_key": "GB1",
+      "season_key": 2023,
+      "position_group": "Defender",
+      "eligible_players": 127,
+      "minimum_minutes": 910.0,
+      "maximum_minutes": 3420.0,
+      "null_starts": 0,
+      "stale_values": 0
+    },
+    {
+      "competition_key": "GB1",
+      "season_key": 2023,
+      "position_group": "Forward",
+      "eligible_players": 83,
+      "minimum_minutes": 941.0,
+      "maximum_minutes": 3333.0,
+      "null_starts": 0,
+      "stale_values": 0
+    },
+    {
+      "competition_key": "GB1",
+      "season_key": 2023,
+      "position_group": "Midfielder",
+      "eligible_players": 102,
+      "minimum_minutes": 920.0,
+      "maximum_minutes": 3269.0,
+      "null_starts": 0,
+      "stale_values": 0
+    },
+    {
+      "competition_key": "IT1",
+      "season_key": 2023,
+      "position_group": "Defender",
+      "eligible_players": 136,
+      "minimum_minutes": 900.0,
+      "maximum_minutes": 3407.0,
+      "null_starts": 0,
+      "stale_values": 0
+    },
+    {
+      "competition_key": "IT1",
+      "season_key": 2023,
+      "position_group": "Forward",
+      "eligible_players": 69,
+      "minimum_minutes": 900.0,
+      "maximum_minutes": 3141.0,
+      "null_starts": 0,
+      "stale_values": 0
+    },
+    {
+      "competition_key": "IT1",
+      "season_key": 2023,
+      "position_group": "Midfielder",
+      "eligible_players": 114,
+      "minimum_minutes": 904.0,
+      "maximum_minutes": 3294.0,
+      "null_starts": 0,
+      "stale_values": 0
+    },
+    {
+      "competition_key": "L1",
+      "season_key": 2023,
+      "position_group": "Defender",
+      "eligible_players": 116,
+      "minimum_minutes": 906.0,
+      "maximum_minutes": 3060.0,
+      "null_starts": 0,
+      "stale_values": 0
+    },
+    {
+      "competition_key": "L1",
+      "season_key": 2023,
+      "position_group": "Forward",
+      "eligible_players": 67,
+      "minimum_minutes": 911.0,
+      "maximum_minutes": 2884.0,
+      "null_starts": 0,
+      "stale_values": 0
+    },
+    {
+      "competition_key": "L1",
+      "season_key": 2023,
+      "position_group": "Midfielder",
+      "eligible_players": 91,
+      "minimum_minutes": 921.0,
+      "maximum_minutes": 2919.0,
+      "null_starts": 0,
+      "stale_values": 0
+    },
+    {
+      "competition_key": "ES1",
+      "season_key": 2024,
+      "position_group": "Defender",
+      "eligible_players": 123,
+      "minimum_minutes": 900.0,
+      "maximum_minutes": 3326.0,
+      "null_starts": 0,
+      "stale_values": 3
+    },
+    {
+      "competition_key": "ES1",
+      "season_key": 2024,
+      "position_group": "Forward",
+      "eligible_players": 96,
+      "minimum_minutes": 935.0,
+      "maximum_minutes": 3103.0,
+      "null_starts": 0,
+      "stale_values": 0
+    },
+    {
+      "competition_key": "ES1",
+      "season_key": 2024,
+      "position_group": "Midfielder",
+      "eligible_players": 95,
+      "minimum_minutes": 909.0,
+      "maximum_minutes": 3034.0,
+      "null_starts": 0,
+      "stale_values": 0
+    },
+    {
+      "competition_key": "FR1",
+      "season_key": 2024,
+      "position_group": "Defender",
+      "eligible_players": 110,
+      "minimum_minutes": 907.0,
+      "maximum_minutes": 3060.0,
+      "null_starts": 0,
+      "stale_values": 2
+    },
+    {
+      "competition_key": "FR1",
+      "season_key": 2024,
+      "position_group": "Forward",
+      "eligible_players": 74,
+      "minimum_minutes": 905.0,
+      "maximum_minutes": 2818.0,
+      "null_starts": 0,
+      "stale_values": 2
+    },
+    {
+      "competition_key": "FR1",
+      "season_key": 2024,
+      "position_group": "Midfielder",
+      "eligible_players": 80,
+      "minimum_minutes": 994.0,
+      "maximum_minutes": 2867.0,
+      "null_starts": 0,
+      "stale_values": 2
+    },
+    {
+      "competition_key": "GB1",
+      "season_key": 2024,
+      "position_group": "Defender",
+      "eligible_players": 120,
+      "minimum_minutes": 960.0,
+      "maximum_minutes": 3420.0,
+      "null_starts": 0,
+      "stale_values": 0
+    },
+    {
+      "competition_key": "GB1",
+      "season_key": 2024,
+      "position_group": "Forward",
+      "eligible_players": 78,
+      "minimum_minutes": 910.0,
+      "maximum_minutes": 3417.0,
+      "null_starts": 0,
+      "stale_values": 0
+    },
+    {
+      "competition_key": "GB1",
+      "season_key": 2024,
+      "position_group": "Midfielder",
+      "eligible_players": 97,
+      "minimum_minutes": 934.0,
+      "maximum_minutes": 3356.0,
+      "null_starts": 0,
+      "stale_values": 1
+    },
+    {
+      "competition_key": "IT1",
+      "season_key": 2024,
+      "position_group": "Defender",
+      "eligible_players": 134,
+      "minimum_minutes": 918.0,
+      "maximum_minutes": 3420.0,
+      "null_starts": 0,
+      "stale_values": 2
+    },
+    {
+      "competition_key": "IT1",
+      "season_key": 2024,
+      "position_group": "Forward",
+      "eligible_players": 74,
+      "minimum_minutes": 918.0,
+      "maximum_minutes": 3145.0,
+      "null_starts": 0,
+      "stale_values": 2
+    },
+    {
+      "competition_key": "IT1",
+      "season_key": 2024,
+      "position_group": "Midfielder",
+      "eligible_players": 111,
+      "minimum_minutes": 916.0,
+      "maximum_minutes": 3275.0,
+      "null_starts": 0,
+      "stale_values": 2
+    },
+    {
+      "competition_key": "L1",
+      "season_key": 2024,
+      "position_group": "Defender",
+      "eligible_players": 111,
+      "minimum_minutes": 900.0,
+      "maximum_minutes": 3060.0,
+      "null_starts": 0,
+      "stale_values": 0
+    },
+    {
+      "competition_key": "L1",
+      "season_key": 2024,
+      "position_group": "Forward",
+      "eligible_players": 67,
+      "minimum_minutes": 907.0,
+      "maximum_minutes": 2874.0,
+      "null_starts": 0,
+      "stale_values": 2
+    },
+    {
+      "competition_key": "L1",
+      "season_key": 2024,
+      "position_group": "Midfielder",
+      "eligible_players": 77,
+      "minimum_minutes": 923.0,
+      "maximum_minutes": 3044.0,
+      "null_starts": 0,
+      "stale_values": 1
+    },
+    {
+      "competition_key": "ES1",
+      "season_key": 2025,
+      "position_group": "Defender",
+      "eligible_players": 128,
+      "minimum_minutes": 912.0,
+      "maximum_minutes": 3330.0,
+      "null_starts": 0,
+      "stale_values": 0
+    },
+    {
+      "competition_key": "ES1",
+      "season_key": 2025,
+      "position_group": "Forward",
+      "eligible_players": 102,
+      "minimum_minutes": 921.0,
+      "maximum_minutes": 3137.0,
+      "null_starts": 0,
+      "stale_values": 1
+    },
+    {
+      "competition_key": "ES1",
+      "season_key": 2025,
+      "position_group": "Midfielder",
+      "eligible_players": 93,
+      "minimum_minutes": 923.0,
+      "maximum_minutes": 3277.0,
+      "null_starts": 0,
+      "stale_values": 0
+    },
+    {
+      "competition_key": "FR1",
+      "season_key": 2025,
+      "position_group": "Defender",
+      "eligible_players": 109,
+      "minimum_minutes": 952.0,
+      "maximum_minutes": 3060.0,
+      "null_starts": 0,
+      "stale_values": 0
+    },
+    {
+      "competition_key": "FR1",
+      "season_key": 2025,
+      "position_group": "Forward",
+      "eligible_players": 67,
+      "minimum_minutes": 928.0,
+      "maximum_minutes": 2949.0,
+      "null_starts": 0,
+      "stale_values": 0
+    },
+    {
+      "competition_key": "FR1",
+      "season_key": 2025,
+      "position_group": "Midfielder",
+      "eligible_players": 80,
+      "minimum_minutes": 913.0,
+      "maximum_minutes": 2880.0,
+      "null_starts": 0,
+      "stale_values": 0
+    },
+    {
+      "competition_key": "GB1",
+      "season_key": 2025,
+      "position_group": "Defender",
+      "eligible_players": 126,
+      "minimum_minutes": 923.0,
+      "maximum_minutes": 3420.0,
+      "null_starts": 0,
+      "stale_values": 0
+    },
+    {
+      "competition_key": "GB1",
+      "season_key": 2025,
+      "position_group": "Forward",
+      "eligible_players": 87,
+      "minimum_minutes": 907.0,
+      "maximum_minutes": 3409.0,
+      "null_starts": 0,
+      "stale_values": 0
+    },
+    {
+      "competition_key": "GB1",
+      "season_key": 2025,
+      "position_group": "Midfielder",
+      "eligible_players": 103,
+      "minimum_minutes": 922.0,
+      "maximum_minutes": 3414.0,
+      "null_starts": 0,
+      "stale_values": 0
+    },
+    {
+      "competition_key": "IT1",
+      "season_key": 2025,
+      "position_group": "Defender",
+      "eligible_players": 127,
+      "minimum_minutes": 919.0,
+      "maximum_minutes": 3316.0,
+      "null_starts": 0,
+      "stale_values": 0
+    },
+    {
+      "competition_key": "IT1",
+      "season_key": 2025,
+      "position_group": "Forward",
+      "eligible_players": 75,
+      "minimum_minutes": 911.0,
+      "maximum_minutes": 2994.0,
+      "null_starts": 0,
+      "stale_values": 0
+    },
+    {
+      "competition_key": "IT1",
+      "season_key": 2025,
+      "position_group": "Midfielder",
+      "eligible_players": 111,
+      "minimum_minutes": 906.0,
+      "maximum_minutes": 3215.0,
+      "null_starts": 0,
+      "stale_values": 0
+    },
+    {
+      "competition_key": "L1",
+      "season_key": 2025,
+      "position_group": "Defender",
+      "eligible_players": 112,
+      "minimum_minutes": 900.0,
+      "maximum_minutes": 3060.0,
+      "null_starts": 0,
+      "stale_values": 0
+    },
+    {
+      "competition_key": "L1",
+      "season_key": 2025,
+      "position_group": "Forward",
+      "eligible_players": 68,
+      "minimum_minutes": 917.0,
+      "maximum_minutes": 3023.0,
+      "null_starts": 0,
+      "stale_values": 0
+    },
+    {
+      "competition_key": "L1",
+      "season_key": 2025,
+      "position_group": "Midfielder",
+      "eligible_players": 84,
+      "minimum_minutes": 907.0,
+      "maximum_minutes": 3060.0,
+      "null_starts": 0,
+      "stale_values": 0
+    }
+  ],
+  "position_metric_profile": [
+    {
+      "position_group": "Defender",
+      "eligible_players": 1818,
+      "average_goals_per_90": 0.0463,
+      "average_assists_per_90": 0.0655,
+      "average_cards_per_90": 0.2039
+    },
+    {
+      "position_group": "Forward",
+      "eligible_players": 1156,
+      "average_goals_per_90": 0.319,
+      "average_assists_per_90": 0.1681,
+      "average_cards_per_90": 0.1572
+    },
+    {
+      "position_group": "Goalkeeper",
+      "eligible_players": 0,
+      "average_goals_per_90": null,
+      "average_assists_per_90": null,
+      "average_cards_per_90": null
+    },
+    {
+      "position_group": "Midfielder",
+      "eligible_players": 1418,
+      "average_goals_per_90": 0.112,
+      "average_assists_per_90": 0.1145,
+      "average_cards_per_90": 0.2212
+    }
+  ],
+  "cross_competition_player_seasons": {
+    "player_season_duplicates_across_competitions": 213
+  },
+  "transfer_horizon_candidates": [
+    {
+      "horizon_months": 6,
+      "historical_transfers": 174645,
+      "baseline_and_matured": 101115
+    },
+    {
+      "horizon_months": 12,
+      "historical_transfers": 174645,
+      "baseline_and_matured": 92400
+    },
+    {
+      "horizon_months": 24,
+      "historical_transfers": 174645,
+      "baseline_and_matured": 78533
+    }
+  ]
+}

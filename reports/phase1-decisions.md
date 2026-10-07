@@ -39,7 +39,9 @@
 
 ## Coverage decision
 
-The five selected leagues have complete match and appearance coverage for the
+The five selected leagues have adequate match and appearance coverage for the
 2023, 2024, and 2025 seasons under the Phase 1 screening rule. Completeness is
 assessed against a five-season local median so structural changes, such as Ligue
-1 moving from 20 to 18 clubs, are not misclassified as missing data.
+1 moving from 20 to 18 clubs, are not misclassified as missing data. The finer
+Phase 2 game-level check found that FR1 2025 has appearance data for 305 of 306
+games (99.6732%); the other fourteen selected competition-seasons are complete.

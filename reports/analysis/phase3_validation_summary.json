@@ -1,0 +1,18 @@
+{
+  "generated_at_utc": "2026-09-30T02:21:58.661291+00:00",
+  "methodology_version": "v1.0",
+  "check_count": 51,
+  "passed_checks": 45,
+  "failed_checks": 0,
+  "informational_checks": 6,
+  "score_eligible_player_seasons": 4392,
+  "peer_group_count": 45,
+  "minimum_peer_group_size": 65,
+  "maximum_peer_group_size": 136,
+  "high_relative_efficiency_rows": 463,
+  "player_season_development_rows": 8103,
+  "consecutive_value_comparison_rows": 1886,
+  "transfer_outcome_rows": 523935,
+  "eligible_transfer_value_outcomes": 185003,
+  "failed_check_names": []
+}

@@ -19,3 +19,11 @@ data/processed/*
 # Notebook and BI application caches
 .ipynb_checkpoints/
 *.pbix.tmp
+
+# React build and package caches
+frontend/node_modules/
+frontend/dist/
+frontend/.playwright-cli/
+frontend/*.tsbuildinfo
+frontend/vite.config.js
+frontend/vite.config.d.ts

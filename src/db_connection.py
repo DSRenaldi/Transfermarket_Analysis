@@ -37,6 +37,6 @@ def load_env_file(path: Path = Path(".env")) -> None:
         os.environ.setdefault(key, value)
 
 
-def connect() -> psycopg.Connection:
+def connect(**kwargs: object) -> psycopg.Connection:
     load_env_file()
-    return psycopg.connect(os.getenv("DATABASE_URL", ""))
+    return psycopg.connect(os.getenv("DATABASE_URL", ""), **kwargs)

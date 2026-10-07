@@ -1,0 +1,16 @@
+{
+  "generated_at_utc": "2026-10-07T04:51:27.061388+00:00",
+  "check_count": 32,
+  "passed_checks": 32,
+  "failed_checks": 0,
+  "failed_check_names": [],
+  "dashboard_pages": 7,
+  "api_routes": 11,
+  "largest_javascript_bundle_bytes": 267842,
+  "browser_validation": {
+    "desktop_viewport": "1280x720",
+    "mobile_viewport": "390x844",
+    "console_errors": 0,
+    "console_warnings": 0
+  }
+}

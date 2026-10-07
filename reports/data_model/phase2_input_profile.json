@@ -1,0 +1,199 @@
+{
+  "generated_at_utc": "2026-09-30T01:40:08.226030+00:00",
+  "scope_competitions": [
+    "GB1",
+    "ES1",
+    "IT1",
+    "L1",
+    "FR1"
+  ],
+  "scope_seasons": [
+    2023,
+    2024,
+    2025
+  ],
+  "lineup_types": [
+    {
+      "lineup_type": "starting_lineup",
+      "rows": 1780759
+    },
+    {
+      "lineup_type": "substitutes",
+      "rows": 1398257
+    }
+  ],
+  "lineup_player_game_duplicates": {
+    "duplicate_groups": 12,
+    "duplicate_excess_rows": "12"
+  },
+  "v1_appearance_scope": [
+    {
+      "competition_id": "ES1",
+      "season": 2023,
+      "appearance_rows": 11883,
+      "players": 598,
+      "games": 380,
+      "missing_player_dimension_rows": 0,
+      "missing_club_dimension_rows": 0,
+      "invalid_minute_rows": 0
+    },
+    {
+      "competition_id": "FR1",
+      "season": 2023,
+      "appearance_rows": 9394,
+      "players": 525,
+      "games": 306,
+      "missing_player_dimension_rows": 0,
+      "missing_club_dimension_rows": 0,
+      "invalid_minute_rows": 0
+    },
+    {
+      "competition_id": "GB1",
+      "season": 2023,
+      "appearance_rows": 11384,
+      "players": 570,
+      "games": 380,
+      "missing_player_dimension_rows": 0,
+      "missing_club_dimension_rows": 0,
+      "invalid_minute_rows": 0
+    },
+    {
+      "competition_id": "IT1",
+      "season": 2023,
+      "appearance_rows": 11910,
+      "players": 590,
+      "games": 380,
+      "missing_player_dimension_rows": 0,
+      "missing_club_dimension_rows": 0,
+      "invalid_minute_rows": 0
+    },
+    {
+      "competition_id": "L1",
+      "season": 2023,
+      "appearance_rows": 9526,
+      "players": 494,
+      "games": 306,
+      "missing_player_dimension_rows": 0,
+      "missing_club_dimension_rows": 0,
+      "invalid_minute_rows": 0
+    },
+    {
+      "competition_id": "ES1",
+      "season": 2024,
+      "appearance_rows": 11899,
+      "players": 589,
+      "games": 380,
+      "missing_player_dimension_rows": 0,
+      "missing_club_dimension_rows": 0,
+      "invalid_minute_rows": 0
+    },
+    {
+      "competition_id": "FR1",
+      "season": 2024,
+      "appearance_rows": 9413,
+      "players": 542,
+      "games": 306,
+      "missing_player_dimension_rows": 0,
+      "missing_club_dimension_rows": 0,
+      "invalid_minute_rows": 0
+    },
+    {
+      "competition_id": "GB1",
+      "season": 2024,
+      "appearance_rows": 11567,
+      "players": 562,
+      "games": 380,
+      "missing_player_dimension_rows": 0,
+      "missing_club_dimension_rows": 0,
+      "invalid_minute_rows": 0
+    },
+    {
+      "competition_id": "IT1",
+      "season": 2024,
+      "appearance_rows": 11888,
+      "players": 599,
+      "games": 380,
+      "missing_player_dimension_rows": 0,
+      "missing_club_dimension_rows": 0,
+      "invalid_minute_rows": 0
+    },
+    {
+      "competition_id": "L1",
+      "season": 2024,
+      "appearance_rows": 9528,
+      "players": 481,
+      "games": 306,
+      "missing_player_dimension_rows": 0,
+      "missing_club_dimension_rows": 0,
+      "invalid_minute_rows": 0
+    },
+    {
+      "competition_id": "ES1",
+      "season": 2025,
+      "appearance_rows": 11953,
+      "players": 600,
+      "games": 380,
+      "missing_player_dimension_rows": 0,
+      "missing_club_dimension_rows": 0,
+      "invalid_minute_rows": 0
+    },
+    {
+      "competition_id": "FR1",
+      "season": 2025,
+      "appearance_rows": 9379,
+      "players": 547,
+      "games": 305,
+      "missing_player_dimension_rows": 0,
+      "missing_club_dimension_rows": 0,
+      "invalid_minute_rows": 0
+    },
+    {
+      "competition_id": "GB1",
+      "season": 2025,
+      "appearance_rows": 11492,
+      "players": 537,
+      "games": 380,
+      "missing_player_dimension_rows": 0,
+      "missing_club_dimension_rows": 0,
+      "invalid_minute_rows": 0
+    },
+    {
+      "competition_id": "IT1",
+      "season": 2025,
+      "appearance_rows": 11926,
+      "players": 585,
+      "games": 380,
+      "missing_player_dimension_rows": 0,
+      "missing_club_dimension_rows": 0,
+      "invalid_minute_rows": 0
+    },
+    {
+      "competition_id": "L1",
+      "season": 2025,
+      "appearance_rows": 9552,
+      "players": 497,
+      "games": 306,
+      "missing_player_dimension_rows": 0,
+      "missing_club_dimension_rows": 0,
+      "invalid_minute_rows": 0
+    }
+  ],
+  "v1_lineup_match": {
+    "rows": 162694,
+    "without_lineup_match": 32,
+    "starters": 115586,
+    "substitutes": 47076
+  },
+  "v1_games_without_appearances": [
+    {
+      "game_id": "4635303",
+      "competition_id": "FR1",
+      "season": 2025,
+      "date": "2026-05-17",
+      "home_club_name": "FC Nantes",
+      "away_club_name": "FC Toulouse",
+      "home_club_goals": "0",
+      "away_club_goals": "0"
+    }
+  ]
+}

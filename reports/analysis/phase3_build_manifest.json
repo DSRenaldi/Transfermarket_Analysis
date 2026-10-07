@@ -1,0 +1,61 @@
+{
+  "built_at_utc": "2026-09-30T02:19:21.081031+00:00",
+  "duration_seconds": 7.481,
+  "database": "football_analytics",
+  "postgresql_version": "18.4",
+  "schema": "tm_analysis",
+  "methodology_version": "v1.0",
+  "executed_sql_files": [
+    "sql\\phase3\\00_methodology.sql",
+    "sql\\phase3\\01_player_kpis.sql",
+    "sql\\phase3\\02_value_efficiency.sql",
+    "sql\\phase3\\03_transfer_outcomes.sql"
+  ],
+  "tables": [
+    {
+      "table": "age_band_definition",
+      "rows": 7
+    },
+    {
+      "table": "agg_market_value_by_age",
+      "rows": 264
+    },
+    {
+      "table": "agg_peer_group_benchmark",
+      "rows": 45
+    },
+    {
+      "table": "agg_transfer_value_outcome",
+      "rows": 9
+    },
+    {
+      "table": "fact_player_season_kpi",
+      "rows": 8316
+    },
+    {
+      "table": "fact_player_value_development",
+      "rows": 8103
+    },
+    {
+      "table": "fact_transfer_value_outcome",
+      "rows": 523935
+    },
+    {
+      "table": "fact_value_efficiency",
+      "rows": 4392
+    },
+    {
+      "table": "methodology_parameters",
+      "rows": 1
+    },
+    {
+      "table": "position_metric_weight",
+      "rows": 15
+    }
+  ],
+  "views": [
+    "vw_player_value_development",
+    "vw_transfer_value_outcomes",
+    "vw_value_efficiency_ranking"
+  ]
+}

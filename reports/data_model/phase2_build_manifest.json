@@ -1,0 +1,76 @@
+{
+  "built_at_utc": "2026-09-30T02:19:02.198520+00:00",
+  "duration_seconds": 67.852,
+  "database": "football_analytics",
+  "postgresql_version": "18.4",
+  "schema": "tm_analytics",
+  "executed_sql_files": [
+    "sql\\phase2\\00_dimensions.sql",
+    "sql\\phase2\\01_facts.sql",
+    "sql\\phase2\\02_player_season.sql"
+  ],
+  "tables": [
+    {
+      "table": "dim_club",
+      "rows": 796
+    },
+    {
+      "table": "dim_competition",
+      "rows": 70
+    },
+    {
+      "table": "dim_competition_season",
+      "rows": 630
+    },
+    {
+      "table": "dim_date",
+      "rows": 13514
+    },
+    {
+      "table": "dim_game",
+      "rows": 88958
+    },
+    {
+      "table": "dim_player",
+      "rows": 50149
+    },
+    {
+      "table": "dim_season",
+      "rows": 18
+    },
+    {
+      "table": "fact_player_appearance",
+      "rows": 1894350
+    },
+    {
+      "table": "fact_player_club_season",
+      "rows": 8538
+    },
+    {
+      "table": "fact_player_season",
+      "rows": 8316
+    },
+    {
+      "table": "fact_player_valuation",
+      "rows": 656301
+    },
+    {
+      "table": "fact_transfer",
+      "rows": 175165
+    },
+    {
+      "table": "project_parameters",
+      "rows": 1
+    },
+    {
+      "table": "source_snapshot",
+      "rows": 6
+    }
+  ],
+  "views": [
+    "vw_data_freshness",
+    "vw_historical_transfers",
+    "vw_v1_player_club_season",
+    "vw_v1_player_season"
+  ]
+}
